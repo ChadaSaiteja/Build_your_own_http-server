@@ -1,0 +1,5 @@
+{
+  "port": 4221,
+  "host": "localhost",
+  "fileDirectory": "./files"
+}
